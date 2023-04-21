@@ -1,18 +1,17 @@
 <!-- ![header](https://capsule-render.vercel.app/api?text=Market%20Karly&fontAlign=70&=Desc&descAlign=20) -->
 
+# 🦁 LikeLion 프론트엔드 스쿨 4기 FINAL PROJECT
+
 ## 1. 프로젝트 소개
 ![image](https://user-images.githubusercontent.com/112063987/233653395-53c97abc-dd18-4de2-888e-88d7cbe95384.png)
+> 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행한 Karly(칼리) 입니다. <br />
+> 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고하였습니다.
 
-
-
-멋쟁이사자처럼 프론트엔드 스쿨 4기 FINAL PROJECT로 진행한 Karly(칼리) 입니다. <br />
-실제 온라인 쇼핑몰인 컬리(Kurly)를 참고하였습니다.
-
-## 🦁 개발 기간
+## 2. 개발 기간
 > 프로젝트 기간: 2023.03.09 ~ 2023.03.28<br/>
 > 추가 기간: 2023.04.10 ~ 2023.04.14
 
-## 🦁 팀원(Contributors)
+## 3. 팀원(Contributors)
 <table>
   <tbody>
     <tr>
@@ -51,14 +50,16 @@
   </tbody>
 </table>
 
-## 🦁 역할 분담
+## 4. 역할 분담
 
-## 🦁 기술 스택
+## 5. 기술 스택
+<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 </div>
 
 ## 🦁 Cowork Tools
