@@ -1,17 +1,20 @@
 <!-- ![header](https://capsule-render.vercel.app/api?text=Market%20Karly&fontAlign=70&=Desc&descAlign=20) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5F0080,100:FFFFFF)
+<!-- # <div align="center">🦁 LikeLion 프론트엔드 스쿨 4기 FINAL PROJECT 🦁</div> -->
+<!-- ![image](https://user-images.githubusercontent.com/112063987/233653395-53c97abc-dd18-4de2-888e-88d7cbe95384.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/112063987/233664236-192af5b5-3f49-435e-a65c-c4af44a05aeb.png) -->
 
-# 🦁 LikeLion 프론트엔드 스쿨 4기 FINAL PROJECT
+<div align="center"><img src="https://user-images.githubusercontent.com/112063987/233669862-47a68263-8187-465d-bcd5-c3c94568818a.png" width="400"></div>
 
-## 1. 프로젝트 소개
-![image](https://user-images.githubusercontent.com/112063987/233653395-53c97abc-dd18-4de2-888e-88d7cbe95384.png)
+## 프로젝트 소개
 > 멋쟁이사자처럼 프론트엔드 스쿨 4기 4조의 FINAL PROJECT로 진행한 Karly(칼리) 입니다. <br />
 > 실제 온라인 쇼핑몰인 컬리(Kurly)를 참고하였습니다.
 
-## 2. 개발 기간
+## 개발 기간
 > 프로젝트 기간: 2023.03.09 ~ 2023.03.28<br/>
 > 추가 기간: 2023.04.10 ~ 2023.04.14
 
-## 3. 팀원(Contributors)
+## 팀원(Contributors)
 <table>
   <tbody>
     <tr>
@@ -50,9 +53,9 @@
   </tbody>
 </table>
 
-## 4. 역할 분담
+## 1. 역할 분담
 
-## 5. 기술 스택
+## 2. 기술 스택
 <img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
