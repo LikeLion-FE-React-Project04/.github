@@ -1,13 +1,12 @@
-미완성(리드미 구성/내용/순서랑 디자인 생각중입니다~)<br/>
-글씨체, 굵기, 색상, 정렬, 테이블 등등 바꾸는 방법 헤메는중..ㅜ.ㅜ<br/>
-지금은 형태만 생각하고 있어서 추후에 내용을 많이 채워넣어야함<br/>
-Badge도 추가많이 해야되고, 카테고리 배치도 어떻게 할 지 생각해봐야 함
+<!-- ![header](https://capsule-render.vercel.app/api?text=Market%20Karly&fontAlign=70&=Desc&descAlign=20) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5F0080,100:FFFFFF)
-![header](https://capsule-render.vercel.app/api?text=Market%20Karly&fontAlign=70&=Desc&descAlign=20)
+## 1. 프로젝트 소개
+![image](https://user-images.githubusercontent.com/112063987/233653395-53c97abc-dd18-4de2-888e-88d7cbe95384.png)
 
-## 🦁 프로젝트 소개
-멋쟁이사자처럼 프론트엔드 스쿨 4기 FINAL PROJECT로 진행한 Market Karly(마켓칼리) 입니다.
+
+
+멋쟁이사자처럼 프론트엔드 스쿨 4기 FINAL PROJECT로 진행한 Karly(칼리) 입니다. <br />
+실제 온라인 쇼핑몰인 컬리(Kurly)를 참고하였습니다.
 
 ## 🦁 개발 기간
 > 프로젝트 기간: 2023.03.09 ~ 2023.03.28<br/>
