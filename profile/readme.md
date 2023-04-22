@@ -155,8 +155,30 @@
 ### :white_check_mark: 커밋 컨벤션
 > Gitmoji 확장프로그램 설치 후 사용<br />
 > Gitmoji 카테고리에 해당되는 분류 클릭 후, [ 소문자 ] + 이슈내용 + #이슈번호
-<img src="https://user-images.githubusercontent.com/112063987/233770199-be4785ea-1f46-4e53-844f-1b9474f6a4ad.png" width="400">
+<img src="https://user-images.githubusercontent.com/112063987/233770199-be4785ea-1f46-4e53-844f-1b9474f6a4ad.png" width="350">
 
+### :white_check_mark: 네이밍 컨벤션
+- 이름을 통해 쓰임새를 알 수 있도록 한다. (20자 미만, 직관적으로)
+- 함수 이름은 '동사+명사' 구조로 네이밍한다.
+   - ex) makingItem(x) / makeItem, getItem, changeItem (o)
+- 이름의 맨 앞이나 맨 뒤에 언더바(_)를 사용하지 않는다.
+- image, svg는 단어 사이 -를 사용해 네이밍한다.
+   - ex) erase-check.svg
+- 이벤트 핸들러는 on + 메소드명 + Handler로 작성한다.
+- 변수, 함수, 인스턴스 → Camel Case(카멜 케이스)
+- Class, Constructor → Camel Case(카멜 케이스)
+- 상수 → Scream Snake Case (스크림 스네이크 케이스)
+
+### :white_check_mark: 코드 컨벤션
+- Tab Depth (들여쓰기)
+   - 기본 tab depth: 4 (유동적으로)<br /><img src="https://user-images.githubusercontent.com/112063987/233770688-c4c1c6b0-1eb7-4a2f-8229-de419c19e1bd.png" width="350">
+- Comment
+   - ```//``` : 기본 주석입니다.
+   - ```//?``` : 의견을 묻는 주석 예시입니다. → 의견을 구해야하거나, 피드백을 구하려할때 사용해주세요.
+   - ```//!``` : 주의해주세요 → 신경쓸 부분이나 중요한 이야기가 있을 때 사용해주세요.
+   - ```분류 주석``` : 분류가 될만한 부분은 줄 주석으로 나눠주세요. (다음 확장 프로그램을 설치해주세요)
+      - 확장프로그램: https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider<br /><img src="https://user-images.githubusercontent.com/112063987/233770939-995b52c9-be62-49ec-80a4-cc24555a8649.png" width="600">
+      
 ## 6. 협업 방식 :busts_in_silhouette: 
 git flow
 ## 7. 디렉터리 구조 :file_folder: 
