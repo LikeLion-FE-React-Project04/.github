@@ -53,28 +53,49 @@
   </tbody>
 </table>
 
-## 1. 역할 분담
+<details>
+    <summary>목차</summary>
+    - 1. 역할 분담<br />
+    - 2. 기술 스택
+</details>
 
-## 2. 기술 스택
-<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
+
+## 1. 역할 분담 :speaking_head: 
+- 최보영
+- 서석원
+- 서미영
+- 김종엽
+- 문진기
+
+## 2. 기술 스택 :gear: 
+<!--
+<img src="https://img.shields.io/badge/텍스트-컬러코드?style=for-the-badge&logo=아이콘이름&logoColor=white"/>
+-->
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
-</div>
-
-## 🦁 Cowork Tools
-<div>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/cssmodules-000000?style=for-the-badge&logo=cssmodules&logoColor=white"/>
+<br />
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white"/>
+<br />
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-## 🦁 개발 환경
+<!-- ## 🦁 Cowork Tools
+<div>
+
+</div> -->
+
+## 3. 개발 환경 :hammer: 
 빌드툴 관리/패키지/폴더/라우팅/테스팅
 
-## 🦁 디렉터리 구조
+## 4. 디렉터리 구조 :file_folder: 
 ## 🦁 깃모지/컨벤션들 소개..
 ## 🦁 페이지별 기능 소개
 ## 🦁 프로젝트 사용법
