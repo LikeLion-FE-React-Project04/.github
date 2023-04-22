@@ -55,8 +55,8 @@
 
 <details>
     <summary>목차</summary>
-    - 1. 역할 분담<br />
-    - 2. 기술 스택
+    <div markdown="1">1. 역할 분담</div>   
+    <div markdown="2">2. 기술 스택</div>  
 </details>
 
 
@@ -99,6 +99,59 @@
 빌드툴 관리/패키지/폴더/라우팅/테스팅
 
 ## 5. 컨벤션 :writing_hand:  
+### :white_check_mark: Gitmoji + 커밋 컨벤션
+<table>
+  <thead>
+    <tr>
+      <th align="center">Emoji</th>
+      <th align="center">Text</th>
+      <th align="center">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">✨</td>
+      <td align="center">[feat]</td>
+      <td align="center">새롭게 만드는 코드(html,css,javascript 등 모두)</td>
+    </tr>
+    <tr>
+      <td align="center">🎨</td>
+      <td align="center">[modify]</td>
+      <td align="center">기존 코드 수정</td>
+    </tr>
+    <tr>
+      <td align="center">⚡️</td>
+      <td align="center">[refactoring]</td>
+      <td align="center">리팩토링</td>
+    </tr>
+    <tr>
+      <td align="center">🐛</td>
+      <td align="center">[fix]</td>
+      <td align="center">버그 문제 수정</td>
+    </tr>
+    <tr>
+      <td align="center">✅</td>
+      <td align="center">[test]</td>
+      <td align="center">테스트</td>
+    </tr>
+    <tr>
+      <td align="center">💄</td>
+      <td align="center">[style]</td>
+      <td align="center">CSS수정</td>
+    </tr>
+    <tr>
+      <td align="center">🔧</td>
+      <td align="center">[setting]</td>
+      <td align="center">환경 설정</td>
+    </tr>
+    <tr>
+      <td align="center">📝</td>
+      <td align="center">[docs]</td>
+      <td align="center">readme.md 등의 문서 수정</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 6. 협업 방식 :busts_in_silhouette: 
 git flow
 ## 7. 디렉터리 구조 :file_folder: 
