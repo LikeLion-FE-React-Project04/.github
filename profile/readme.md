@@ -281,6 +281,12 @@ feat/#이슈번호
 
 ## 8. 페이지별 기능 소개 :sparkles:  
 ## 9. 프로젝트 사용법 :question: 
+다음 순서대로 명령어를 입력해주세요.
+```
+npm install -g pnpm
+pnpm install
+npm start
+```
 ## 10. 배포 링크 :tada: 
 
 
