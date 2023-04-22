@@ -99,7 +99,7 @@
 빌드툴 관리/패키지/폴더/라우팅/테스팅
 
 ## 5. 컨벤션 :writing_hand:  
-### :white_check_mark: Gitmoji + 커밋 컨벤션
+### :white_check_mark: Gitmoji 
 <table>
   <thead>
     <tr>
@@ -151,6 +151,11 @@
     </tr>
   </tbody>
 </table>
+
+### :white_check_mark: 커밋 컨벤션
+> Gitmoji 확장프로그램 설치 후 사용<br />
+> Gitmoji 카테고리에 해당되는 분류 클릭 후, [ 소문자 ] + 이슈내용 + #이슈번호
+<img src="https://user-images.githubusercontent.com/112063987/233770199-be4785ea-1f46-4e53-844f-1b9474f6a4ad.png" width="400">
 
 ## 6. 협업 방식 :busts_in_silhouette: 
 git flow
