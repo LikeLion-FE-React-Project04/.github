@@ -177,7 +177,7 @@
    - ```//?``` : 의견을 묻는 주석 예시입니다. → 의견을 구해야하거나, 피드백을 구하려할때 사용해주세요.
    - ```//!``` : 주의해주세요 → 신경쓸 부분이나 중요한 이야기가 있을 때 사용해주세요.
    - ```분류 주석``` : 분류가 될만한 부분은 줄 주석으로 나눠주세요. (다음 확장 프로그램을 설치해주세요)
-      - 확장프로그램: https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider<br /><img src="https://user-images.githubusercontent.com/112063987/233770939-995b52c9-be62-49ec-80a4-cc24555a8649.png" width="600">
+      - 확장프로그램: https://marketplace.visualstudio.com/items?itemName=stackbreak.comment-divider<br /><img src="https://user-images.githubusercontent.com/112063987/233770939-995b52c9-be62-49ec-80a4-cc24555a8649.png" width="500">
       
 ## 6. 협업 방식 :busts_in_silhouette: 
 git flow
