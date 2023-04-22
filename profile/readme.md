@@ -82,7 +82,7 @@
 #### :white_check_mark: 서미영
   - ```Home```: 메인 모달창(MainModal), 라인베너(LineBanner) 구현
   - ```Common(모든페이지)```: 푸터(Footer)
-  - ```ProductDetail```: 상품문의 구현 / 공용 후기&문의작성 팝업창 컴포넌트(ProductDetailPopUp) / 공용 Badge 컴포넌트(Badge)
+  - ```ProductDetail```: 상품문의 구현 / 공용 후기&문의작성 팝업창 컴포넌트(ProductDetailPopUp) / 공용 Badge 컴포넌트(Badge) / 후기&문의작성에 대한 데이터를 파이어스토어에 넣고 가져오는 공용 커스텀 훅 구현(파이어베이스)
   - 경고창 컴포넌트(AlertBox), 투명 필터 컴포넌트(TransparentFilter), 스크롤 이동 컴포넌트(ScrollToTop)
 #### :white_check_mark: 김종엽
 #### :white_check_mark: 문진기
