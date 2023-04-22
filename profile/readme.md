@@ -114,7 +114,7 @@
 <img src="![Recoil]https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div> 
 
-## 4. 초기 세팅 :hammer: 
+## 4. 프로젝트 초기 세팅 :hammer: 
 <details>
 <summary>:white_check_mark: 빌드툴 관리 - Webpack 기본 설정</summary>
 
