@@ -61,8 +61,8 @@
 
 
 ## 1. 역할 분담 :speaking_head: 
-- 최보영
-- 서석원
+- 최보영(조장)
+- 서석원(스크럼마스터)
 - 서미영
 - 김종엽
 - 문진기
@@ -245,8 +245,12 @@
 </details>
 
       
-## 6. 협업 방식 :busts_in_silhouette: 
-git flow
+## 6. git branch 전략 :busts_in_silhouette: 
+저희팀은 git branch 전략으로, git flow 방식을 선택했습니다.
+> main : 기준이 되는 branch로 제품을 배포하는 브랜치 입니다.<br />
+> develop : 개발 branch로 개발자들이 이 브랜치를 기준으로 각자 작업한 기능들을 합(Merge)칩니다.<br />
+> feature : 단위 기능을 개발하는 branch로 기능 개발이 완료되면 develop branch에 합(Merge)칩니다. <br />
+
 ## 7. 디렉터리 구조 :file_folder: 
 
 ## 8. 페이지별 기능 소개
