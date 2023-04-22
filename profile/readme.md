@@ -103,8 +103,27 @@
 <img src="![Recoil]https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div> 
 
-## 4. 개발 환경 :hammer: 
-빌드툴 관리/패키지/폴더/라우팅/테스팅
+## 4. 초기 세팅 :hammer: 
+<details>
+<summary>:white_check_mark: 빌드툴 관리 - Webpack 기본 설정</summary>
+
+![image](https://user-images.githubusercontent.com/112063987/233780244-008b952c-97fe-41f3-ac3e-3c09f050d1ee.png)
+</details>
+<details>
+<summary>:white_check_mark: 빌드툴 관리 - Webpack 빌드 및 분석</summary>
+
+![image](https://user-images.githubusercontent.com/112063987/233780407-d826ab4f-12bd-484f-b5a1-fd6cd3265c24.png)
+</details>
+<details>
+<summary>:white_check_mark: 패키지, 폴더</summary>
+
+![image](https://user-images.githubusercontent.com/112063987/233780660-d83a1141-c316-43b1-a7e5-035569ad84d2.png)
+</details>
+<details>
+<summary>:white_check_mark: 라우팅, 테스팅</summary>
+
+![image](https://user-images.githubusercontent.com/112063987/233780716-bc4e58b3-ac66-40e6-be24-bc04620c7ace.png)
+</details>
 
 ## 5. 컨벤션 :writing_hand:
 <details>
