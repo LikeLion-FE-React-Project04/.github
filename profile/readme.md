@@ -125,7 +125,7 @@
 ![image](https://user-images.githubusercontent.com/112063987/233780716-bc4e58b3-ac66-40e6-be24-bc04620c7ace.png)
 </details>
 
-## 5. 컨벤션 :writing_hand:
+## 5. 컨벤션 :bookmark_tabs: 
 <details>
   <summary>:white_check_mark: Gitmoji</summary>
   <table>
@@ -251,11 +251,11 @@
 > develop : 개발 branch로 개발자들이 이 브랜치를 기준으로 각자 작업한 기능들을 합(Merge)칩니다.<br />
 > feature : 단위 기능을 개발하는 branch로 기능 개발이 완료되면 develop branch에 합(Merge)칩니다. <br />
 
-## 7. 디렉터리 구조 :file_folder: 
+## 7. 디렉터리 구조 :open_file_folder: 
 
-## 8. 페이지별 기능 소개
-## 9. 프로젝트 사용법
-배포링크...
+## 8. 페이지별 기능 소개 :sparkles:  
+## 9. 프로젝트 사용법 :question: 
+## 10. 배포 링크 :tada: 
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FFFFFF,100:5F0080)
