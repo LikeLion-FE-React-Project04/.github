@@ -271,6 +271,12 @@
 > develop : 개발 branch로 개발자들이 이 브랜치를 기준으로 각자 작업한 기능들을 합(Merge)칩니다.<br />
 > feature : 단위 기능을 개발하는 branch로 기능 개발이 완료되면 develop branch에 합(Merge)칩니다. <br />
 
+#### :loudspeaker: feature branch 컨벤션
+단위 기능을 개발하는 branch인 feature branch의 경우, 다음과 같은 형식으로 네이밍합니다.
+```
+feat/#이슈번호
+```
+
 ## 7. 디렉터리 구조 :open_file_folder: 
 
 ## 8. 페이지별 기능 소개 :sparkles:  
