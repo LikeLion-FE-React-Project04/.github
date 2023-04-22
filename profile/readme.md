@@ -61,20 +61,29 @@
 
 
 ## 1. 역할 분담 :speaking_head: 
-#### :loudspeaker: pages 
+#### :loudspeaker: src/pages 
 - Sprint1: ```Home(메인 페이지)``` / ```SingIn(로그인 페이지)``` / ```SignUp(회원가입 페이지)```
 - Sprint2: ```ProductDetail(제품 상세 페이지)``` / ```ProductList(제품 나열 페이지)``` / ```Cart(장바구니 페이지)```
 > 저희조는 작업을 Sprint1과 Sprint2로 나눈 뒤, Sprint1작업이 모두 끝난 후, Sprint2로 들어갔습니다.<br />
 > 각 Sprint마다 각자 역할을 맡아서 진행했습니다.
 
+#### :loudspeaker: src/components
+> 저희조는 처음에 공용 컴포넌트들을 먼저 파악하고 시작하려고 노력했습니다. <br/> 
+> 공용컴포넌트들은 components 폴더안에 모아두었습니다. <br/>
+
 #### :white_check_mark: 최보영(조장)
 #### :white_check_mark: 서석원(스크럼마스터)
   - 프로젝트 초기 세팅: 웹팩 빌드툴 개발 / 라우팅 세팅 / 스토리북 연결
-  - ```Home```: 메인 캐로셀 / 상품 캐로셀 / 공용 상품 카드 / 장바구니 모달 / 공용 카운터 컴포넌트
+  - ```Home```: 메인 캐로셀 / 상품 캐로셀 / 공용 상품 카드 / 장바구니 모달(CartModal) / 공용 카운터 컴포넌트(Counter)
   - ```SignUp```: 컴포넌트 분리 / 유효성 검사 (정규 표현식) / 약관동의 / 주소 검색 (공용 커스텀 훅) / 이메일 중복 검사 (파이어베이스) / 회원가입 (파이어베이스)
   - ```ProductDetail```: 네비게이션 구현
-  - ```Cart```: 공용 아코디언 컴포넌트 / 상품 아코디언 구현 / 주소 검색 / 상품 금액 계산 로직 구현
+  - ```Cart```: 공용 아코디언 컴포넌트(Accordion) / 상품 아코디언 구현 / 주소 검색 / 상품 금액 계산 로직 구현
+  - 다크 필터 컴포넌트(DarkFilter)
 #### :white_check_mark: 서미영
+  - ```Home```: 메인 모달창(MainModal), 라인베너(LineBanner) 구현
+  - ```Common(모든페이지)```: 푸터(Footer)
+  - ```ProductDetail```: 상품문의 구현 / 공용 후기&문의작성 팝업창 컴포넌트(ProductDetailPopUp) / 공용 Badge 컴포넌트(Badge)
+  - 경고창 컴포넌트(AlertBox), 투명 필터 컴포넌트(TransparentFilter), 스크롤 이동 컴포넌트(ScrollToTop)
 #### :white_check_mark: 김종엽
 #### :white_check_mark: 문진기
 
@@ -111,7 +120,7 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="![Recoil]https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div> 
 
 ## 4. 프로젝트 초기 세팅 :hammer: 
