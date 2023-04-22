@@ -254,4 +254,4 @@ git flow
 배포링크...
 
 
-<!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FFFFFF,100:5F0080) -->
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FFFFFF,100:5F0080)
