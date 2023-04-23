@@ -305,6 +305,19 @@ npm install -g pnpm
 pnpm install
 npm start
 ```
+#### :loudspeaker: .env
+> 데이터들을 관리하기 위해서는 ```.env```파일이 필요합니다.<br/>
+> ```project-repo```폴더 최상단에 ```.env```파일을 만들어주세요.<br/>
+> ```.env```의 내용은 다음과 같이 구성하면 됩니다. 쌍따옴표안에 개인의 코드를 넣어주세요.<br/>
+```
+API_KEY = ""
+AUTH_DOMAIN = ""
+PROJECT_ID = ""
+STORAGE_BUCKET = ""
+MESSAGING_SENDER_ID = ""
+APP_ID = ""
+```
+
 ## 10. 배포 링크 :tada: 
 
 
