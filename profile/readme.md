@@ -75,7 +75,7 @@
 #### :white_check_mark: 최보영(조장)
   - 데일리 스크럼 회의 진행
   - 페이지 타이틀 컴포넌트(PageTitle) / 라디오 버튼 컴포넌트(RadioButton)
-  - ```SignUp```:
+  - ```SignUp```: 회원가입 컴포넌트 마크업
   - ```ProductDetail```: 상품정보(ProductDetail 페이지 최상단) / 상품설명 / 상세정보 
 #### :white_check_mark: 서석원(스크럼마스터)
   - 프로젝트 초기 세팅(해당 카테고리 참고): 웹팩 빌드툴 개발 / 라우팅 세팅 / 스토리북 연결
