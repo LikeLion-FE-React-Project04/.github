@@ -82,27 +82,77 @@
 
 #### :white_check_mark: 최보영(조장)
   - 데일리 스크럼 회의 진행
-  - 페이지 타이틀 컴포넌트(PageTitle) / 라디오 버튼 컴포넌트(RadioButton)
-  - ```SignUp```: 회원가입 컴포넌트 마크업
-  - ```ProductDetail```: 상품정보(ProductDetail 페이지 최상단) / 상품설명 / 상세정보 
+  - 페이지 타이틀 컴포넌트(PageTitle)
+  - 라디오 버튼 컴포넌트(RadioButton)
+  - ```SignUp```
+    - 회원가입 컴포넌트 마크업
+  - ```ProductDetail```
+    - 상품정보(ProductDetail 페이지 최상단) 
+    - 상품설명 
+    - 상세정보 
 #### :white_check_mark: 서석원(스크럼마스터)
-  - 프로젝트 초기 세팅([해당 카테고리 참고](#4-프로젝트-초기-세팅-hammer)): 웹팩 빌드툴 개발 / 라우팅 세팅 / 스토리북 연결
-  - ```Home```: 메인 캐로셀 / 상품 캐로셀 / 공용 상품 카드 / 장바구니 모달(CartModal) / 공용 카운터 컴포넌트(Counter)
-  - ```SignUp```: 컴포넌트 분리 / 유효성 검사 (정규 표현식) / 약관동의 / 주소 검색 (공용 커스텀 훅) / 이메일 중복 검사 (파이어베이스) / 회원가입 (파이어베이스)
-  - ```ProductDetail```: 네비게이션 구현
-  - ```Cart```: 공용 아코디언 컴포넌트(Accordion) / 상품 아코디언 구현 / 주소 검색 / 상품 금액 계산 로직 구현
+  - 프로젝트 초기 세팅([해당 카테고리 참고](#4-프로젝트-초기-세팅-hammer))
+    - 웹팩 빌드툴 개발 
+    - 라우팅 세팅 
+    - 스토리북 연결
   - 다크 필터 컴포넌트(DarkFilter)
+  - ```Home```
+    - 메인 캐로셀 
+    - 상품 캐로셀 
+    - 공용 상품 카드 
+    - 장바구니 모달(CartModal) 
+    - 공용 카운터 컴포넌트(Counter)
+  - ```SignUp```
+    - 컴포넌트 분리 
+    - 유효성 검사 (정규 표현식) 
+    - 약관동의 
+    - 주소 검색 (공용 커스텀 훅) 
+    - 이메일 중복 검사 (파이어베이스) 
+    - 회원가입 (파이어베이스)
+  - ```ProductDetail```
+    - 네비게이션 구현
+  - ```Cart```
+    - 공용 아코디언 컴포넌트(Accordion) 
+    - 상품 아코디언 구현 
+    - 주소 검색 
+    - 상품 금액 계산 로직 구현
 #### :white_check_mark: 서미영
-  - ```Common(모든페이지)```: 푸터(Footer)
-  - ```Home```: 메인 모달창(MainModal) / '오늘 하루 안보기' 쿠키 관리 로직 / 라인베너(LineBanner) 
-  - ```ProductDetail```: 상품문의 / 공용 후기&문의작성 팝업창 컴포넌트(ProductDetailPopUp) / 공용 Badge 컴포넌트(Badge) / 후기&문의작성에 대한 데이터를 파이어스토어에 넣고 가져오는 공용 커스텀 훅 구현(파이어베이스)
-  - 경고창 컴포넌트(AlertBox), 투명 필터 컴포넌트(TransparentFilter), 스크롤 이동 컴포넌트(ScrollToTop)
+  - 경고창 컴포넌트(AlertBox)
+  - 투명 필터 컴포넌트(TransparentFilter)
+  - 스크롤 이동 컴포넌트(ScrollToTop)
+  - ```Common(모든페이지)```
+    - 푸터(Footer)
+  - ```Home```
+    - 메인 모달창(MainModal) 
+    - '오늘 하루 안보기' 쿠키 관리 로직 
+    - 라인베너(LineBanner) 
+  - ```ProductDetail```
+    - 상품문의 
+    - 공용 후기&문의작성 팝업창 컴포넌트(ProductDetailPopUp) 
+    - 공용 Badge 컴포넌트(Badge) 
+    - 후기&문의작성에 대한 데이터를 파이어스토어에 넣고 가져오는 공용 커스텀 훅 구현(파이어베이스)
 #### :white_check_mark: 김종엽
-  - ```Common(모든페이지)```: 헤더(Header)
+  - ```Common(모든페이지)```
+    - 헤더(Header)
+  - ```ProductList```
+    - DB를 통한 필터 목록 구현 (로컬 DB로 작업 후,  파이어베이스를 사용하여 리팩토링)
+    - Firebase API에 따른 일괄 데이터 전송 및 Data Read 후, 조건에 맞는 개수를 가져오는 커스텀 훅 제작 ( useRead.js ,  writeBatchData.js)
+    - 필터 조건에 맞는 상품리스트 렌더링 구현
+    - 브랜드별 가나다순 정렬 구현 
+    - 조건부랜더링을 통한 ProductNotFound 컴포넌트 렌더링
+    - 페이지네이션 기능 구현 
+    - 가격순 정렬 기능 구현
+    - 초기화 컴포넌트 
+    - 신상품 배너 컴포넌트
 #### :white_check_mark: 문진기
-  - 폼 인풋 컴포넌트(FormInput) / 버튼 컴포넌트(Button)
-  - ```SignIn```: 로그인 페이지 구현 / 이메일/패스워드 로그인 유틸리티 훅(파이어베이스) / 로그인 인증 로직
-  - ```ProductDetail```: 상품후기
+  - 폼 인풋 컴포넌트(FormInput) 
+  - 버튼 컴포넌트(Button)
+  - ```SignIn```
+    - 로그인 페이지 구현 
+    - 이메일/패스워드 로그인 유틸리티 훅(파이어베이스) 
+    - 로그인 인증 로직
+  - ```ProductDetail```
+    - 상품후기
 
 ## 2. 기술 스택 :gear: 
 <!--
