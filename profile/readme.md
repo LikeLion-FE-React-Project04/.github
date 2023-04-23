@@ -298,6 +298,25 @@ feat/#이슈번호
 ## 7. 디렉터리 구조 :open_file_folder: 
 
 ## 8. 페이지별 기능 소개 :sparkles:  
+<details>
+  <summary>:white_check_mark: Home (메인 페이지)</summary>
+</details>
+<details>
+  <summary>:white_check_mark: SignIn (로그인 페이지)</summary>
+</details>
+<details>
+  <summary>:white_check_mark: SignUp (회원가입 페이지)</summary>
+</details>
+<details>
+  <summary>:white_check_mark: ProductDetail (제품 상세 페이지)</summary>
+</details>
+<details>
+  <summary>:white_check_mark: ProductList (제품 나열 페이지)</summary>
+</details>
+<details>
+  <summary>:white_check_mark: Cart (장바구니 페이지)</summary>
+</details>
+
 ## 9. 프로젝트 사용법 :question: 
 다음 순서대로 명령어를 입력해주세요.
 ```
