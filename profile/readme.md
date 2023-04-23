@@ -309,6 +309,24 @@ feat/#이슈번호
 </details>
 <details>
   <summary>:white_check_mark: ProductDetail (제품 상세 페이지)</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:장바구니에 상품 담기</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) -/+버튼을 통해 상품 수량을 선택하고, 장바구니에 담기 버튼을 누르면 해당 상품이 장바구니(Cart)에 담깁니다.</p>
+        <p>2) count값이 1일때는 마이너스 버튼이 비활성화됩니다.</p>
+        <p>3) count값은 재고량을 초과할 수 없습니다. (gif속, 탱탱쫄면의 재고량은 11)</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/233832485-05d91ecd-2128-4272-9ed5-66c4722fa709.gif"/>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">상품 디테일 정보 및 장바구니</td>
+      <td width="700"><img src="https://user-images.githubusercontent.com/112063987/233830129-65387524-b2ae-4379-9bd4-511144f7ddf8.gif"/></td>
+    </tr>
+  </table>
 </details>
 <details>
   <summary>:white_check_mark: ProductList (제품 나열 페이지)</summary>
