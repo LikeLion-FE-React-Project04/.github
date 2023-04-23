@@ -56,16 +56,16 @@
 
 <details>
     <summary>목차</summary>
-    <div markdown="1">1. 역할 분담 :speaking_head:</div>   
-    <div markdown="2">2. 기술 스택 :gear:</div>  
-    <div markdown="3">3. Cowork Tools 🦁</div> 
-    <div markdown="4">4. 프로젝트 초기 세팅 :hammer:</div> 
-    <div markdown="5">5. 컨벤션 :bookmark_tabs:</div>
-    <div markdown="6">6. git branch 전략 :busts_in_silhouette:</div>
-    <div markdown="7">7. 디렉터리 구조 :open_file_folder:</div>
-    <div markdown="8">8. 페이지별 기능 소개 :sparkles:</div>
-    <div markdown="9">9. 프로젝트 사용법 :question:</div>
-    <div markdown="10">10. 배포 링크 :tada:</div>
+    <div><a href='#1-역할-분담-speaking_head'>1. 역할 분담 :speaking_head:</a></div>
+    <div><a href="#2-기술-스택-gear">2. 기술 스택 :gear:</a></div>
+    <div><a href="#3-cowork-tools-🦁">3. Cowork Tools 🦁</a> </div>
+    <div><a href="#4-프로젝트-초기-세팅-hammer">4. 프로젝트 초기 세팅 :hammer:</a> </div>
+    <div><a href="#5-컨벤션-bookmark_tabs">5. 컨벤션 :bookmark_tabs:</a></div>
+    <div><a href="#6-git-branch-전략-busts_in_silhouette">6. git branch 전략 :busts_in_silhouette:</a></div>
+    <div><a href="#7-디렉터리-구조-open_file_folder">7. 디렉터리 구조 :open_file_folder:</a></div>
+    <div><a href="#8-페이지별-기능-소개-sparkles">8. 페이지별 기능 소개 :sparkles:</a></div>
+    <div><a href="#9-프로젝트-사용법-question">9. 프로젝트 사용법 :question:</a></div>
+    <div><a href="#10-배포-링크-tada">10. 배포 링크 :tada:</a></div>
 </details>
 
 
