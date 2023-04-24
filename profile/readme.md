@@ -1,3 +1,4 @@
+진짜 너무 슬프다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ으아아아아아아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ트위치 보고싶다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
 <!-- ![header](https://capsule-render.vercel.app/api?text=Market%20Karly&fontAlign=70&=Desc&descAlign=20) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5F0080,100:FFFFFF)
 <!-- # <div align="center">🦁 LikeLion 프론트엔드 스쿨 4기 FINAL PROJECT 🦁</div> -->
@@ -494,6 +495,30 @@ feat/#이슈번호
 ## 8. 페이지별 기능 소개 :sparkles:  
 <details>
   <summary>:white_check_mark: Home (메인 페이지)</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:메인페이지 모달창</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 오늘 하루 안보기를 쿠키로 구현</p>
+      </td>
+      <td width="700">
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:상단 헤더</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 로그인 상태에 따라 버튼이 달라짐</p>
+        <p>2) 스크롤을 일정 위치 만큼 내릴 시, 상단 고정되는 반응형 헤더 레이아웃</p>
+        <p>3) 카테고리 영역 hover 시, 리스트 렌더링</p>
+        <p>1) 로그인 상태가 되면 로그아웃 버튼이 생성</p>
+      </td>
+      <td width="700">
+        <img src=""/>
+      </td>
+    </tr>
+  </table>
 </details>
 <details>
   <summary>:white_check_mark: SignIn (로그인 페이지)</summary>
