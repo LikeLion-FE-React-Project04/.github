@@ -130,13 +130,13 @@
     - 상품문의 
     - 공용 Badge 컴포넌트(Badge)
     - 공용 후기&문의작성 팝업창 컴포넌트(ProductDetailPopUp)      
-    - 후기&문의작성에 대한 데이터를 파이어스토어에 넣고 가져오는 공용 커스텀 훅 구현(파이어베이스)
+    - 후기&문의작성에 대한 데이터를 파이어스토어에 넣고 가져오는 공용 커스텀 훅 구현(useDetailFireStore.js, useDetailCollection.js)
 #### :white_check_mark: 김종엽
   - ```Common(모든페이지)```
     - 헤더(Header)
   - ```ProductList```
     - DB를 통한 필터 목록 구현 (로컬 DB로 작업 후,  파이어베이스를 사용하여 리팩토링)
-    - Firebase API에 따른 일괄 데이터 전송 및 Data Read 후, 조건에 맞는 개수를 가져오는 커스텀 훅 제작 ( useRead.js ,  writeBatchData.js)
+    - Firebase API에 따른 일괄 데이터 전송 및 Data Read 후, 조건에 맞는 개수를 가져오는 커스텀 훅 제작 (useRead.js ,  writeBatchData.js)
     - 필터 조건에 맞는 상품리스트 렌더링 구현
     - 브랜드별 가나다순 정렬 구현 
     - 조건부랜더링을 통한 ProductNotFound 컴포넌트 렌더링
@@ -149,7 +149,7 @@
   - 버튼 컴포넌트(Button)
   - ```SignIn```
     - 로그인 페이지 구현 
-    - 이메일/패스워드 로그인 유틸리티 훅(파이어베이스) 
+    - 이메일/패스워드 로그인 유틸리티 훅(useCreateAuthUser.js) 
     - 로그인 인증 로직
   - ```ProductDetail```
     - 상품후기
