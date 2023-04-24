@@ -265,6 +265,11 @@
       <td align="center">[docs]</td>
       <td align="center">readme.md 등의 문서 수정</td>
     </tr>
+    <tr>
+      <td align="center">🔥</td>
+      <td align="center">[delete]</td>
+      <td align="center">파일이나 폴더 삭제</td>
+    </tr>
   </tbody>
 </table>
 </details>
