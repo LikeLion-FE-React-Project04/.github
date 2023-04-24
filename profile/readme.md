@@ -351,6 +351,145 @@ feat/#이슈번호
 ```
 
 ## 7. 디렉터리 구조 :open_file_folder: 
+<details>
+<summary>디렉터리 구조</summary>
+<pre><code>
+├─.github
+│  └─ISSUE_TEMPLATE
+├─.storybook
+├─build
+│  └─static
+├─public
+│  └─assets
+│      ├─cart
+│      ├─common
+│      ├─footer
+│      ├─header
+│      ├─main
+│      ├─modal
+│      ├─product
+│      │  ├─bacon
+│      │  ├─brownrice
+│      │  ├─detergent
+│      │  ├─jukkumi
+│      │  ├─kangnam
+│      │  ├─suncushion
+│      │  ├─tangtang
+│      │  └─ubuho
+│      ├─product-detail
+│      └─product-list
+├─src
+│  ├─app
+│  ├─assets
+│  │  ├─cart
+│  │  ├─common
+│  │  ├─footer
+│  │  ├─header
+│  │  ├─main
+│  │  ├─modal
+│  │  ├─product
+│  │  │  ├─bacon
+│  │  │  ├─brownrice
+│  │  │  ├─detergent
+│  │  │  ├─jukkumi
+│  │  │  ├─kangnam
+│  │  │  ├─suncushion
+│  │  │  ├─tangtang
+│  │  │  └─ubuho
+│  │  ├─product-detail
+│  │  └─product-list
+│  ├─components
+│  │  ├─Accordion
+│  │  ├─AlertBox
+│  │  │  ├─@hook
+│  │  │  ├─@recoil
+│  │  │  └─BtnType
+│  │  │      ├─ConfirmAndCancel
+│  │  │      └─OnlyConfirm
+│  │  ├─Badge
+│  │  ├─Button
+│  │  ├─CartModal
+│  │  ├─CartPopup
+│  │  ├─Counter
+│  │  │  └─@recoil
+│  │  ├─DarkFilter
+│  │  ├─DetailPagination
+│  │  ├─Footer
+│  │  ├─FormInput
+│  │  ├─Header
+│  │  │  ├─@recoil
+│  │  │  ├─@recoilhooks
+│  │  │  ├─HeaderIcon
+│  │  │  ├─HeaderLogoContainer
+│  │  │  ├─HeaderNav
+│  │  │  ├─Member
+│  │  │  ├─SearchInput
+│  │  │  └─Topbanner
+│  │  ├─PageTitle
+│  │  ├─ProductCard
+│  │  ├─ProductDetailPopUp
+│  │  │  ├─PlaceholderInquiry
+│  │  │  ├─PlaceholderReview
+│  │  │  └─Secret
+│  │  ├─RadioButton
+│  │  ├─ScrollToTop
+│  │  ├─StorybookExample
+│  │  └─TransparentFilter
+│  │      └─@recoil
+│  ├─firebase
+│  │  ├─auth
+│  │  └─firestore
+│  ├─hooks
+│  ├─pages
+│  │  ├─Cart
+│  │  │  ├─Address
+│  │  │  ├─CartAccordion
+│  │  │  ├─PaymentPrice
+│  │  │  └─PriceInfo
+│  │  ├─Home
+│  │  │  ├─Carousel
+│  │  │  ├─LineBanner
+│  │  │  └─MainModal
+│  │  │      └─@recoil
+│  │  ├─Layout
+│  │  ├─NotFound
+│  │  ├─ProductDetail
+│  │  │  ├─@hook
+│  │  │  ├─DetailInformation
+│  │  │  ├─ProductDetailMenu
+│  │  │  ├─ProductInformation
+│  │  │  ├─ProductInquiry
+│  │  │  │  ├─@recoil
+│  │  │  │  └─ProductInquiryAccordion
+│  │  │  ├─ProductReview
+│  │  │  │  ├─@recoil
+│  │  │  │  └─ProductReviewList
+│  │  │  └─ProductThumbnail
+│  │  ├─ProductList
+│  │  │  ├─@recoil
+│  │  │  └─@recoilHook
+│  │  ├─SignIn
+│  │  └─SignUp
+│  │      ├─@hook
+│  │      ├─@recoil
+│  │      ├─Agreement
+│  │      ├─BirthInput
+│  │      ├─CheckBox
+│  │      ├─GenderInput
+│  │      ├─Input
+│  │      └─SignUpAddress
+│  ├─store
+│  ├─stories
+│  │  └─assets
+│  ├─styles
+│  ├─theme
+│  ├─types
+│  └─utils
+└─webpack
+    ├─loaders
+    └─plugins
+</code></pre>
+</details>
 
 ## 8. 페이지별 기능 소개 :sparkles:  
 <details>
