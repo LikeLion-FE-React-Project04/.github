@@ -527,25 +527,16 @@ feat/#이슈번호
   <table>
     <tr>
       <td width="300">
-        <h4>:round_pushpin:이메일 유효성 검사</h4>
+        <h4>:round_pushpin:이메일 유효성 검사 및 중복 확인</h4>
         <h4>:round_pushpin:기능 설명</h4>
         <p>1) 이메일 폼 입력 형식을 체크합니다.</p>
+        <p>2) 회원가입을 하려면 반드시 중복 확인 버튼을 눌러 중복 검사를 해야합니다.</p>
+        <p>3) 이메일 폼 우측 중복 확인 버튼을 눌러 이미 가입한 이메일인지 확인합니다.</p>
+        <p>4) 중복된 이메일이 없으면 '사용가능한 이메일입니다.' 라고 알려주며 중복 확인 버튼이 비활성화 됩니다.</p>
+        <p>5) 다시 이메일을 입력하면 중복 확인 버튼이 재활성화 되며 다시 중복 검사를 해야 회원가입 할 수 있습니다.</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
-      </td>        
-    </tr>
-    <tr>
-      <td width="300">
-        <h4>:round_pushpin:이메일 중복 확인</h4>
-        <h4>:round_pushpin:기능 설명</h4>
-        <p>1) 회원가입을 하려면 반드시 중복 확인 버튼을 눌러 중복 검사를 해야합니다.</p>
-        <p>2) 이메일 폼 우측 중복 확인 버튼을 눌러 이미 가입한 이메일인지 확인합니다.</p>
-        <p>3) 중복된 이메일이 없으면 '사용가능한 이메일입니다.' 라고 알려주며 중복 확인 버튼이 비활성화 됩니다.</p>
-        <p>4) 다시 이메일을 입력하면 중복 확인 버튼이 재활성화 되며 다시 중복 검사를 해야 회원가입 할 수 있습니다.</p>
-      </td>
-      <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234276612-0092bf26-f3e9-41fb-a6ac-53ef272e1c82.gif"/>
       </td>        
     </tr>
     <tr>
@@ -556,7 +547,7 @@ feat/#이슈번호
         <p>2) 비밀번호를 입력하면 비밀번호 확인도 검사가 진행됩니다. </p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234276692-4a22acdb-cbb0-4837-9025-37bc6dbc8464.gif"/>
       </td>        
     </tr>
     <tr>
@@ -566,7 +557,7 @@ feat/#이슈번호
         <p>1) 비밀번호 확인이 비밀번호와 동일한지 검사합니다.</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234277671-38355e57-87b0-4745-93d8-5869b3bcf8b9.gif"/>
       </td>        
     </tr>
     <tr>
@@ -576,7 +567,7 @@ feat/#이슈번호
         <p>1) 이름 폼 입력 형식을 체크합니다. (최소 2글자 이상)</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234277552-71d60060-f085-47ed-af0e-56449de32f2f.gif"/>
       </td>        
     </tr>
     <tr>
@@ -586,7 +577,7 @@ feat/#이슈번호
         <p>1) 휴대폰 폼 입력 형식을 체크합니다. (숫자 11자)</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234279659-8cb74691-193d-407d-8253-8e0bfd80bbba.gif"/>
       </td>        
     </tr>
     <tr>
@@ -599,7 +590,7 @@ feat/#이슈번호
         <p>4) 재검색 버튼을 눌러 다서 검색 가능합니다.</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234279731-d673592a-9968-4673-b630-c652ed905874.gif"/>
       </td>        
     </tr>
     <tr>
@@ -609,7 +600,7 @@ feat/#이슈번호
         <p>1) 성별을 선택합니다. 기본 값은 '선택안함' 입니다.</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234279810-e5f07e11-82f7-45db-9c2e-6663fb8817eb.gif"/>
       </td>        
     </tr>
     <tr>
@@ -621,7 +612,7 @@ feat/#이슈번호
         <p>1) 태어난 일은 1~31 사이의 숫자만 입력가능합니다.</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
+        <img src="https://user-images.githubusercontent.com/73629761/234279910-ac5b0024-5dac-4794-a7b5-25b9085f78e3.gif"/>
       </td>        
     </tr>
     <tr>
@@ -632,8 +623,8 @@ feat/#이슈번호
         <p>1) "전체 동의합니다." 체크박스를 체크하면 모든 약관을 체크합니다.</p>
       </td>
       <td width="700">
-        <p>1) 이메일 형식을 체크합니다.</p>
-      </td>        
+         <img src="https://user-images.githubusercontent.com/73629761/234280076-89c32e2b-b33c-4768-a1a0-705982594eed.gif"/>
+      </td>       
     </tr>
    </table>
 </details>
