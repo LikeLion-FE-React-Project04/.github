@@ -521,6 +521,28 @@ feat/#이슈번호
 </details>
 <details>
   <summary>:white_check_mark: SignIn (로그인 페이지)</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:로그인하기</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 이메일 비밀번호를 입력하고, 로그인 버튼을 누르면 로그인 된 후 메인페이지로 이동합니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234283008-0fb9c951-2153-467a-ac72-10b735267c03.gif"/>    
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:회원가입 페이지로 이동</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 회원가입 버튼을 누르면 회원가입 페이지로 이동합니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234283234-6682c934-d766-465e-bff3-14041314dda4.gif"/>
+      </td>        
+    </tr>
+  </table>
 </details>
 <details>
   <summary>:white_check_mark: SignUp (회원가입 페이지) </summary>
