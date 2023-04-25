@@ -179,8 +179,6 @@
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white"/>
 </div>
 
-
-
 ## 3. Cowork Tools 🦁 
 <div>
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -901,6 +899,31 @@ feat/#이슈번호
       </td>
     </tr>
   </table>
+</details>
+<details>
+  <summary>:white_check_mark: Common(모든 페이지에 공통적으로 들어가는 부분)</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: 스크롤위치에 반응하는 레이아웃</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 스크롤을 일정 위치 만큼 내릴 시,  상단 고정되는 반응형 헤더 레이아웃을 확인할 수 있습니다. </p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234309849-d18ddc38-0667-4fba-a4d3-92cc2bf737c1.gif"/>          
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: 카테고리 영역 hover 시, 리스트 렌더링</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 카테고리 영역을 HOVER 시, 카테고리 리스트들이 나옵니다. </p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234311920-58841b57-0ede-4f71-ab92-b299f5b116cc.gif"/>       
+      </td>
+    </tr>
+   </table>
 </details>
 
 ## 9. 웹 접근성을 높이기 위한 노력 :clap: 
