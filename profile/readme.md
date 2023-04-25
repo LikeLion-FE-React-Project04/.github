@@ -733,6 +733,63 @@ feat/#이슈번호
 </details>
 <details>
   <summary>:white_check_mark: ProductList (제품 나열 페이지)</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: 스크롤위치에 반응하는 레이아웃</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 스크롤을 일정 위치 만큼 내릴 시, 레이아웃이 고정됩니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234263066-0c70283a-e7b2-4a83-9855-137e2bf19fa9.gif"/>      
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: 필터 기능 구현</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 체크박스 클릭시 조건에 맞는 상품들을 렌더링 및 필터 유형별 클릭 시, 중복적으로 조건에 맞는 상품들을 렌더링합니다.</p>
+        <p>2) 카테고리별로 필터링 가능합니다.</p>
+        <p>3) 브랜드별로 필터링 가능합니다.</p>
+        <p>4) 가격별로 필터링 가능합니다.</p>
+        <p>5) 혜택별로 필터링 가능합니다.</p>
+        <p>6) 유형별로 필터링 가능합니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234264909-858f4746-18ac-48c0-aad8-849783e5c7ac.gif"/>   
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: 필터링 초기화 기능 구현</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 초기화 버튼을 클릭하면, 필터링된 상태가 초기화됩니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234267155-de0e762d-58d5-4191-b694-e8769c659990.gif"/>      
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: 특정 조건 시, 텍스트를 띄우는 레이아웃</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 조건에 맞는 상품이 없다면, '선택하신 필터와 일치하는 상품이 없습니다.'텍스트가 있는 레이아웃을 띄웁니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234268187-76670879-bbcc-41cb-bcf4-24892e01d880.gif"/> 
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: 가격순 정렬기능 구현</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 높은가격 또는 낮은가격순으로 정렬 가능합니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234268813-440a8811-ffa6-40d1-90ae-5e2eda250ec1.gif"/> 
+      </td>
+    </tr>
+  </table>
 </details>
 <details>
   <summary>:white_check_mark: Cart (장바구니 페이지)</summary>
