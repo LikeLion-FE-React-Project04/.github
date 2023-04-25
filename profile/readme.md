@@ -824,6 +824,17 @@ feat/#이슈번호
         <img src="https://user-images.githubusercontent.com/112063987/234268813-440a8811-ffa6-40d1-90ae-5e2eda250ec1.gif"/> 
       </td>
     </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: 페이지네이션 구현</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 한 페이지당 15개의 상품을 보여줍니다.</p>
+        <p>2) 최대 10페이지까지 늘어납니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/112063987/234291652-69704732-6018-416a-a983-31f065fa8acb.gif"/> 
+      </td>
+    </tr>
   </table>
 </details>
 <details>
