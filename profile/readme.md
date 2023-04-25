@@ -502,6 +502,7 @@ feat/#이슈번호
 </p>
       </td>
       <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234293310-a902203e-c059-438b-a322-63914408986f.gif"/>
       </td>        
     </tr>
     <tr>
