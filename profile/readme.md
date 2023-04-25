@@ -793,6 +793,67 @@ feat/#이슈번호
 </details>
 <details>
   <summary>:white_check_mark: Cart (장바구니 페이지)</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:장바구니에 상품 담기</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 장바구니 모달 또는 상품 페이지에서 상품을 수량과 함꼐 저장할 수 있습니다.</p>
+        <p>2) 수량은 1개 이상 상품의 재고 수량 이하 만큼 선택 할 수 있습니다. </p>
+      </td>
+      <td width="700">
+      <img src="https://user-images.githubusercontent.com/73629761/234274911-7e6f78ec-2260-4e4b-b634-540c94b90ee7.gif"/>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:장바구니 아코디언</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 장바구니 아코디언은 (냉장 식품, 냉동 식품, 상온 식품)으로 나누어져 있습니다.</p>
+        <p>2) 전체 선택 체크 박스로 상품 전체를 선택 할 수 있습니다. </p>
+        <p>3) 선택 삭제 버튼을 통해 선택된 상품들을 삭제 할 수 있습니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234275375-c1f4ecc8-c2e4-400c-a921-9c3a023dd16c.gif"/>
+      </td>        
+    </tr>
+     <tr>
+      <td width="300">
+        <h4>:round_pushpin:장바구니 상품</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 아코디언 내부에서 장바구니에 저장된 상품을 확인 할 수 있습니다.</p>
+        <p>2) 상품의 체크 여부에 따라 계산이 변경됩니다.</p>
+        <p>3) 체크 박스 체크후 아코디언의 선택 삭제 버튼을 누르거나, 상품 우측의 x 버튼을 눌러 상품을 삭제 할 수 있습니다. </p>
+        <p>4) Counter를 통해 상품의 수량을 조정할 수 있습니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234274693-fbdf5180-ba58-4d04-9538-8c09d33ec497.gif"/>
+      </td>
+    </tr>
+     <tr>
+      <td width="300">
+        <h4>:round_pushpin:배송지 선택</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 주소 검색을 통해 배송지를 검색 할 수 있습니다.</p>
+        <p>2) 회원가입의 주소검색과 동일 방식으로 검색이 이루어집니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234274661-65eda766-17c3-400f-93fd-775225fa6b7c.gif"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:결제 하기</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 장바구니 상품 상태를 반영하여 결제 금액을 보여줍니다.</p>
+        <p>2) 로그인 상태에서 주문하기 버튼을 누를 수 있습니다</p>
+        <p>3) 주문하기 버튼을 누르면 결제한 정보와 금액을 알려줍니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234274614-d7bb5ca9-6bdb-4049-bac1-a9a6fdad158a.gif"/>   
+      </td>
+    </tr>
+  </table>
 </details>
 
 ## 9. 프로젝트 사용법 :question: 
