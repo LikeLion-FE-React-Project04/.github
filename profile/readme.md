@@ -64,10 +64,10 @@
   <div><a href="#6-git-branch-전략-busts_in_silhouette">6. git branch 전략 :busts_in_silhouette:</a></div>
   <div><a href="#7-디렉터리-구조-open_file_folder">7. 디렉터리 구조 :open_file_folder:</a></div>
   <div><a href="#8-페이지별-기능-소개-sparkles">8. 페이지별 기능 소개 :sparkles:</a></div>
-  <div><a href="#9-프로젝트-사용법-question">9. 프로젝트 사용법 :question:</a></div>
-  <div><a href="#10-배포-링크-tada">10. 배포 링크 :tada:</a></div>
+  <div><a href="#9-웹-접근성을-높이기-위한-노력-clap">9. 웹 접근성을 높이기 위한 노력 :clap:</a></div>
+  <div><a href="#10-프로젝트-사용법-question">10. 프로젝트 사용법 :question:</a></div>
+  <div><a href="#11-배포-링크-tada">11. 배포 링크 :tada:</a></div>
 </div>
-
 
 ## 1. 역할 분담 :speaking_head: 
 #### :loudspeaker: src/pages 
@@ -903,7 +903,23 @@ feat/#이슈번호
   </table>
 </details>
 
-## 9. 프로젝트 사용법 :question: 
+## 9. 웹 접근성을 높이기 위한 노력 :clap: 
+#### :white_check_mark: Tab으로 접근 가능한 모달창
+- ```장바구니 모달창 웹접근성``` : https://github.com/LikeLion-FE-React-Project04/project-repo/issues/206
+- ```메인 모달창 웹접근성``` : https://github.com/LikeLion-FE-React-Project04/project-repo/issues/212
+- ```상품후기/문의 팝업창 웹접근성``` : https://github.com/LikeLion-FE-React-Project04/project-repo/issues/228
+- ```경고창 웹접근성``` : https://github.com/LikeLion-FE-React-Project04/project-repo/issues/220
+
+#### :white_check_mark: 슬라이더(swiper) 웹접근성
+- ```캐로셀 웹접근성``` : https://github.com/LikeLion-FE-React-Project04/project-repo/issues/202
+
+#### :white_check_mark: Header 웹접근성
+- https://github.com/LikeLion-FE-React-Project04/project-repo/issues/236
+
+#### :white_check_mark: Footer 웹접근성
+- https://github.com/LikeLion-FE-React-Project04/project-repo/issues/238
+
+## 10. 프로젝트 사용법 :question: 
 다음 순서대로 명령어를 입력해주세요.
 ```
 npm install -g pnpm
@@ -923,7 +939,7 @@ MESSAGING_SENDER_ID = ""
 APP_ID = ""
 ```
 
-## 10. 배포 링크 :tada: 
+## 11. 배포 링크 :tada: 
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FFFFFF,100:5F0080)
