@@ -1,4 +1,3 @@
-진짜 너무 슬프다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ으아아아아아아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ트위치 보고싶다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
 <!-- ![header](https://capsule-render.vercel.app/api?text=Market%20Karly&fontAlign=70&=Desc&descAlign=20) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5F0080,100:FFFFFF)
 <!-- # <div align="center">🦁 LikeLion 프론트엔드 스쿨 4기 FINAL PROJECT 🦁</div> -->
@@ -524,7 +523,119 @@ feat/#이슈번호
   <summary>:white_check_mark: SignIn (로그인 페이지)</summary>
 </details>
 <details>
-  <summary>:white_check_mark: SignUp (회원가입 페이지)</summary>
+  <summary>:white_check_mark: SignUp (회원가입 페이지) </summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:이메일 유효성 검사</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 이메일 폼 입력 형식을 체크합니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:이메일 중복 확인</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 회원가입을 하려면 반드시 중복 확인 버튼을 눌러 중복 검사를 해야합니다.</p>
+        <p>2) 이메일 폼 우측 중복 확인 버튼을 눌러 이미 가입한 이메일인지 확인합니다.</p>
+        <p>3) 중복된 이메일이 없으면 '사용가능한 이메일입니다.' 라고 알려주며 중복 확인 버튼이 비활성화 됩니다.</p>
+        <p>4) 다시 이메일을 입력하면 중복 확인 버튼이 재활성화 되며 다시 중복 검사를 해야 회원가입 할 수 있습니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:비밀번호 유효성 검사</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 비밀번호 폼 입력 형식을 체크합니다. (영문/숫자/특수문자(공백 제외)만 허용하며, 2개 이상 조합, 최소 10자리)</p>
+        <p>2) 비밀번호를 입력하면 비밀번호 확인도 검사가 진행됩니다. </p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:비밀번호 확인 유효성 검사</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 비밀번호 확인이 비밀번호와 동일한지 검사합니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:이름 유효성 검사</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 이름 폼 입력 형식을 체크합니다. (최소 2글자 이상)</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:휴대폰 유효성 검사</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 휴대폰 폼 입력 형식을 체크합니다. (숫자 11자)</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:주소 검색</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 주소를 검색합니다.</p>
+        <p>2) 카카오 주소 api를 사용합니다.</p>
+        <p>3) 검색에 성공하면 검색된 주소를 보여줍니다.</p>
+        <p>4) 재검색 버튼을 눌러 다서 검색 가능합니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:성별 선택</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 성별을 선택합니다. 기본 값은 '선택안함' 입니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:생년월일 입력</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 년도는 1900 ~ 2099 사이의 숫자만 입력가능합니다.</p>
+        <p>1) 태어난 월은 1~12 사이의 숫자만 입력가능합니다.</p>
+        <p>1) 태어난 일은 1~31 사이의 숫자만 입력가능합니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:이용약관동의</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 회원가입을 하려면 필수 이용약관에 모두 동의해야합니다.</p>
+        <p>1) "전체 동의합니다." 체크박스를 체크하면 모든 약관을 체크합니다.</p>
+      </td>
+      <td width="700">
+        <p>1) 이메일 형식을 체크합니다.</p>
+      </td>        
+    </tr>
+   </table>
 </details>
 <details>
   <summary>:white_check_mark: ProductDetail (제품 상세 페이지)</summary>
