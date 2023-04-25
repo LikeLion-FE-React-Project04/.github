@@ -509,12 +509,34 @@ feat/#이슈번호
         <h4>:round_pushpin:상단 헤더</h4>
         <h4>:round_pushpin:기능 설명</h4>
         <p>1) 로그인 상태에 따라 버튼이 달라짐</p>
-        <p>2) 스크롤을 일정 위치 만큼 내릴 시, 상단 고정되는 반응형 헤더 레이아웃</p>
-        <p>3) 카테고리 영역 hover 시, 리스트 렌더링</p>
-        <p>1) 로그인 상태가 되면 로그아웃 버튼이 생성</p>
+        <p>2) 스크롤을 일정 위치 만큼 내릴 시, 헤더가 상단에 고정됩니다.</p>
+        <p>3) 카테고리 영역 hover 시, 리스트가 나타납니다.</p>
       </td>
       <td width="700">
-        <img src=""/>
+        <img src="https://user-images.githubusercontent.com/73629761/234286874-b71fa6ad-10c6-4bf9-90ae-fdb94932b692.gif"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:메인 캐로셀</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 메인 배너를 확인할 수 있습니다.</p>
+        <p>2) 자동으로 슬라이더가 넘어가며, 정지 버튼을 눌러 멈출 수 있습니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234286984-e73c4e17-f339-4db8-be50-df5c7bb10b92.gif"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin:상품 캐로셀과 상품 UI</h4>
+        <h4>:round_pushpin:기능 설명</h4>
+        <p>1) 상품이 4개씩 보여집니다.</p>
+        <p>2) 상품 카드를 누를시 상품 디테일 페이지로 넘어갑니다.</p>
+        <p>3) 장바구니 버튼을 누를 시 장바구니 모달이 나타납니다.</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234287323-d662eb4e-298c-42d6-a9e2-72a2cbdb2315.gif"/>
       </td>
     </tr>
   </table>
