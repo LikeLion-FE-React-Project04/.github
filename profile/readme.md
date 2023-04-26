@@ -145,6 +145,7 @@
     - 초기화 컴포넌트 
     - 신상품 배너 컴포넌트
 #### :white_check_mark: 문진기
+  - 문서 제목 변경 리액트 커스텀훅 제작(useDocumentTitle.js)
   - 폼 인풋 컴포넌트(FormInput) 
   - 버튼 컴포넌트(Button)
   - ```SignIn```
