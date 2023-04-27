@@ -962,6 +962,285 @@ STORAGE_BUCKET = ""
 MESSAGING_SENDER_ID = ""
 APP_ID = ""
 ```
+#### :loudspeaker: 파이어베이스
+<details>
+  <summary>파이어베이스 설정</summary>
+  <table>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+        <img src="https://user-images.githubusercontent.com/73629761/234783630-57bde989-2f72-4ed9-b65b-fe7ca5a1b271.PNG"/>          
+      </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+    <img src="https://user-images.githubusercontent.com/73629761/234783753-56622e88-234c-441f-89a3-edcc4ebff3f9.PNG"/>
+    </td>
+    </tr>
+    <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234783813-a9f75e51-490d-42e4-9ce5-9edbdb8e4d39.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234783902-178da913-b48a-402b-a544-0790ceb90b41.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234783981-a400776e-eb93-4b7f-bc5c-707289d9dfcf.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234784041-44490d2d-5a0d-46df-a363-b21a50db11a8.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234784106-b79a3aa0-9b75-440e-a8de-04c0d15549fe.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234784163-dc896fbe-eb21-47e4-86d4-dd65298052c0.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234784220-006ac690-db01-4cab-885f-89e19d19a68c.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234788604-f0f2b617-a473-4167-bdee-4f493054a64c.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234788658-df4c2c57-5d77-4f69-9241-9701d8ddfb1f.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234788755-b196535c-6f7a-4bc3-a04d-00a7f928bc37.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234788801-e9f72869-1e33-4317-abf4-fbe9ab4a7f2b.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234788871-9db1f9d8-a5ef-4266-8694-921dab148ebd.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234788929-b75d2498-4dcb-4b82-93e4-c3601a5938dd.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234789564-40c2b490-1b84-4bc7-8dcc-1833d950495b.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234789662-73292a39-8513-4758-a2f1-03f4b7d7a37a.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234789793-15c11e1f-96aa-421c-9817-08a9c03a8cb2.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234792745-1691fc9f-bf4c-4ce1-952a-8005f3ac3885.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234792828-08979a22-7eae-4229-98fb-db3dfc48599f.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234792865-bf336264-1412-4933-8456-42ed08e2b876.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234792955-cc242bc7-e0b0-4c48-b55c-1a252c37a6d0.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234793082-243f8981-501e-4b55-ae93-28c09e88fab6.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234793163-090aab85-b03f-460c-a446-85a5da685aea.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234793261-2158b35b-fb45-4623-a521-0bd92a4265dc.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234793312-476310b3-ddcf-4919-a0ff-84ab4e3f5d3d.PNG"/>
+  </td>
+    </tr>
+  <tr>
+      <td width="300">
+        <h4>:round_pushpin: Header: ex</h4>
+        <h4>:round_pushpin:설명</h4>
+        <p>1) ex</p>
+      </td>
+      <td width="700">
+  <img src="https://user-images.githubusercontent.com/73629761/234793375-47cc0628-9091-4dfc-9853-49dd469225a7.PNG"/>
+  </td>
+    </tr>
+    </table>
+
+  
+</details>
+
 
 ## 11. 배포 링크 :tada: 
 
