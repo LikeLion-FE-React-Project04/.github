@@ -989,7 +989,7 @@ APP_ID = ""
       <td width="300">
         <h4>:round_pushpin:설명</h4>
         <p>1) 프로젝트의 이름을 지정합니다.</p>
-        <p>2) 체크박스 표시후 계속 버튼을 클릭합니다.</p>
+        <p>2) 체크박스 표시 후 계속 버튼을 클릭합니다.</p>
       </td>
       <td width="700">
   <img src="https://user-images.githubusercontent.com/73629761/234783813-a9f75e51-490d-42e4-9ce5-9edbdb8e4d39.PNG"/>
@@ -1008,7 +1008,7 @@ APP_ID = ""
       <td width="300">
         <h4>:round_pushpin:설명</h4>
         <p>1) 애널리틱스를 다음과 같이 설정합니다.</p>
-        <p>1) 프로젝트 만들기 버튼을 클릭합니다.</p>
+        <p>2) 프로젝트 만들기 버튼을 클릭합니다.</p>
       </td>
       <td width="700">
   <img src="https://user-images.githubusercontent.com/73629761/234783981-a400776e-eb93-4b7f-bc5c-707289d9dfcf.PNG"/>
@@ -1018,7 +1018,7 @@ APP_ID = ""
       <td width="300">
         <h4>:round_pushpin:설명</h4>
         <p>1) 프로젝트 만들기에 성공하면 다음과 같은 화면이 나옵니다.</p>
-        <p>1) 계속버튼을 클릭합니다.</p>
+        <p>2) 계속 버튼을 클릭합니다.</p>
       </td>
       <td width="700">
   <img src="https://user-images.githubusercontent.com/73629761/234784041-44490d2d-5a0d-46df-a363-b21a50db11a8.PNG"/>
@@ -1054,7 +1054,7 @@ APP_ID = ""
   <tr>
       <td width="300">
         <h4>:round_pushpin:설명</h4>
-        <p>1) 그림과 같이 설정후 저장 버튼을 누릅니다.</p>
+        <p>1) 그림과 같이 설정 후 저장 버튼을 누릅니다.</p>
       </td>
       <td width="700">
   <img src="https://user-images.githubusercontent.com/73629761/234788604-f0f2b617-a473-4167-bdee-4f493054a64c.PNG"/>
@@ -1062,7 +1062,7 @@ APP_ID = ""
     </tr>
       <td width="300">
         <h4>:round_pushpin:설명</h4>
-        <p>1) </> (웹 앱 추가) 버튼을 클릭합니다.</p>
+        <p>1) &lt;/&gt; (웹 앱 추가) 버튼을 클릭합니다.</p>
       </td>
       <td width="700">
   <img src="https://user-images.githubusercontent.com/73629761/234788755-b196535c-6f7a-4bc3-a04d-00a7f928bc37.PNG"/>
@@ -1080,7 +1080,7 @@ APP_ID = ""
   <tr>
       <td width="300">
         <h4>:round_pushpin:설명</h4>
-        <p>1) SDK의 값을 .env에 등록합니다. (.env 등록하기를 참고하세요)</p>
+        <p>1) SDK의 값을 .env에 등록합니다. <a href="#loudspeaker-env">.env 등록하기를 참고하세요</a></p>
       </td>
       <td width="700">
   <img src="https://user-images.githubusercontent.com/73629761/234788871-9db1f9d8-a5ef-4266-8694-921dab148ebd.PNG"/>
