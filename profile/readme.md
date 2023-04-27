@@ -1165,6 +1165,15 @@ APP_ID = ""
   <img src="https://user-images.githubusercontent.com/73629761/234792955-cc242bc7-e0b0-4c48-b55c-1a252c37a6d0.PNG"/>
   </td>
     </tr>
+    <tr>
+      <td width="200">
+        <h4>:round_pushpin:설명</h4>
+        <p>1) 데이터가 정상적으로 추가되었으면 주석을 다시 닫아줍니다.</p>
+      </td>
+      <td width="800">
+  <img src="https://user-images.githubusercontent.com/73629761/234828118-22f2d5d9-385a-4089-a055-f4b8f1e2bd9f.PNG"/>
+  </td>
+    </tr>
   <tr>
       <td width="300">
         <h4>:round_pushpin:설명</h4>
@@ -1197,7 +1206,7 @@ APP_ID = ""
       <td width="300">
         <h4>:round_pushpin:설명</h4>
         <p>1) 그림과 같이 색인을 입력하고 색인 만들기 버튼을 클릭합니다.</p>
-        <p>2) 주의) 새번째 색인은 __name__ 입니다.</p>
+        <p>2) 주의) 세번째 색인은 __name__ 입니다.</p>
         <p>3) 색인이 만들어지는데는 몇 분의 시간이 소요됩니다.</p>
       </td>
       <td width="700">
