@@ -1219,7 +1219,7 @@ APP_ID = ""
         <p>1) 색인이 정상적으로 만들어지면 다음과 같이 데이터가 보입니다.</p>
       </td>
       <td width="700">
-  <img src="https://user-images.githubusercontent.com/73629761/234793375-47cc0628-9091-4dfc-9853-49dd469225a7.PNG"/>
+  <img src="https://user-images.githubusercontent.com/73629761/234903662-82d85a88-b438-47c2-a0be-fcdf1ba131d6.PNG"/>
   </td>
     </tr>
     </table>
