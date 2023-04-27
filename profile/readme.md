@@ -967,29 +967,29 @@ APP_ID = ""
   <summary>✅파이어베이스 연동하기</summary>
   <table>
     <tr>
-      <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+      <td width="200">
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 파이어베이스 홈페이지에 들어갑니다.</p>
         <p>2) 시작하기 버튼을 누릅니다.</p>
       </td>
-      <td width="700">
+      <td width="800">
         <img src="https://user-images.githubusercontent.com/73629761/234783630-57bde989-2f72-4ed9-b65b-fe7ca5a1b271.PNG"/>          
       </td>
     </tr>
     <tr>
-      <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+      <td width="200">
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 프로젝트 만들기 버튼을 클릭합니다.</p>
       </td>
-      <td width="700">
+      <td width="800">
     <img src="https://user-images.githubusercontent.com/73629761/234783753-56622e88-234c-441f-89a3-edcc4ebff3f9.PNG"/>
     </td>
     </tr>
     <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 프로젝트의 이름을 지정합니다.</p>
         <p>2) 체크박스 표시후 계속 버튼을 클릭합니다.</p>
@@ -1000,7 +1000,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 계속 버튼을 클릭합니다.</p>
       </td>
@@ -1010,7 +1010,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 애널리틱스를 다음과 같이 설정합니다.</p>
         <p>1) 프로젝트 만들기 버튼을 클릭합니다.</p>
@@ -1021,7 +1021,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 프로젝트 만들기에 성공하면 다음과 같은 화면이 나옵니다.</p>
         <p>1) 계속버튼을 클릭합니다.</p>
@@ -1032,7 +1032,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 하단에 Authentication 버튼을 누릅니다.</p>
       </td>
@@ -1042,7 +1042,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 시작하기 버튼을 누릅니다.</p>
       </td>
@@ -1052,7 +1052,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 이메일/비밀번호 버튼을 누릅니다.</p>
       </td>
@@ -1062,7 +1062,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 그림과 같이 설정후 저장 버튼을 누릅니다.</p>
       </td>
@@ -1071,7 +1071,7 @@ APP_ID = ""
   </td>
     </tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) </> (웹 앱 추가) 버튼을 클릭합니다.</p>
       </td>
@@ -1081,7 +1081,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 앱을 등록합니다.</p>
       </td>
@@ -1091,7 +1091,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) SDK의 값을 .env에 등록합니다. (.env 등록하기를 참고하세요)</p>
       </td>
@@ -1101,7 +1101,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) Cloud Firestore 버튼을 클릭합니다.</p>
       </td>
@@ -1111,7 +1111,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 데이터베이스 만들기 버튼을 클릭합니다.</p>
       </td>
@@ -1121,7 +1121,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 다음 버튼을 클릭합니다.</p>
       </td>
@@ -1131,7 +1131,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) Cloud Firestore 위치를 다음과 같이 설정합니다.</p>
         <p>2) 사용 설정 버튼을 클릭합니다.</p>
@@ -1142,7 +1142,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스 연동하기</h4>
+        <h4>:round_pushpin: 파이어베이스 연동하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 생성된 Cloud Firestore의 규착을 다음과 같이 바꿔줍니다. (false -> true)</p>
       </td>
@@ -1157,7 +1157,7 @@ APP_ID = ""
     <table>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) "src\components\Header\Header.jsx" 코드의 21~23 번째 줄의 주석을 풉니다.</p>
       </td>
@@ -1167,7 +1167,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 주석을 풀면 헤더 상단에 일괄 데이터 쓰기 버튼이 나타납니다.</p>
       </td>
@@ -1177,7 +1177,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 일괄 데이터 쓰기 버튼을 클릭합니다</p>
         <p>2) 데이터가 정상적으로 추가되었다고 콘솔에 표시됩니다.</p>
@@ -1188,7 +1188,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 상품리스트 페이지(localhost:3000/productList)에 들어가면 다음과 같은 화면이 나타납니다.</p>
       </td>
@@ -1198,7 +1198,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 해당 위치의 주소를 복사해서 검색창에 입력합니다.</p>
       </td>
@@ -1208,7 +1208,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 색인을 입력하는 페이지가 나타납니다.</p>
         <p>2) 색인 만들기 버튼을 클릭합니다.</p>
@@ -1219,7 +1219,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 그림과 같이 색인을 입력하고 색인 만들기 버튼을 클릭합니다.</p>
       </td>
@@ -1229,7 +1229,7 @@ APP_ID = ""
     </tr>
   <tr>
       <td width="300">
-        <h4>:round_pushpin: Header: 파이어베이스에 데이터 추가하기</h4>
+        <h4>:round_pushpin: 파이어베이스에 데이터 추가하기</h4>
         <h4>:round_pushpin:설명</h4>
         <p>1) 색인이 정상적으로 만들어지면 다음과 같이 데이터가 보입니다.</p>
       </td>
